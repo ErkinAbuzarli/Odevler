@@ -6,3 +6,4 @@ KTÜ Ayrık matematik dersinde verilen ödevlerden biri
 (zaman kısıtlı olduğundan düzensiz yazılmış bir kod)
 (feedback'lere açığız)
  
+    
