@@ -1,9 +1,12 @@
-# Ayrik_Matematik
-KTÜ Ayrık matematik dersinde verilen ödevlerden biri
+# Yaptığım Ödevleri Depoladığım Yer
 
+## main.c
 
-(random çok da iyi çalışmıyo :D)
-(zaman kısıtlı olduğundan düzensiz yazılmış bir kod)
-(feedback'lere açığız)
- 
-    
+Verilen matrisde minimum kapsamayı bulan program.
+
+Basit kapsayan satır ve sütun bulma işlemleri dışında daha karmaşık rota algoritması gibi işlemler de kullanılmıştır.
+
+## star.py
+
+Vasıf Nabiyev Algoritmalar kitabındakı tabloda heasaplanmamış yerleri hesaplayan program.
+  
