@@ -396,5 +396,5 @@ void rota_alg(int** table, int widht, int height)
         if(ans != -1) remove_row(table, widht, height, ans);
 
 }
-
+ 
 
